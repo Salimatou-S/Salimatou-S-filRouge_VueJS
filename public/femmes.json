@@ -1,0 +1,100 @@
+{   
+    "time": 
+    {   "updated": "Feb 10, 2022 11:36:00 UTC", 
+        "updatedISO": "2022-02-10T11:36:00+00:00", 
+        "updateduk": "Feb 10, 2022 at 11:36 GMT" 
+    }, 
+    "disclaimer": "This data was produced from femme", 
+    "chartName": "femmes", 
+    "femmes": 
+    [
+        {  
+        "id":1,
+        "titre": "Lolita",
+        "image": "femme1.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"150 "
+    
+        }, 
+        {  
+        "id":2,
+        "titre": "Gardenia",
+        "image": "femme2.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"120 "
+        }, 
+        { 
+        "id":3,
+        "titre": "Begonia",
+        "image": "femme13.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"90 "
+        }, 
+        { 
+        "id":4,
+        "titre": "Myrabelle",
+        "image": "femme4.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"110 "
+        },
+        {  
+        "id":5,
+        "titre": "Julia",
+        "image": "femme5.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"70 €"
+        }, 
+        { 
+        "id":6,
+        "titre": "Nina",
+        "image": "femme6.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"90 €"
+        },
+
+        {  
+        "id":7,
+        "titre": "Gina",
+        "image": "femme7.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"120 €"
+        }, 
+        {  
+        "id":8,
+        "titre": "Zeïnab",
+        "image": "femme11.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"60 €"
+        }, 
+        {  
+        "id":9,
+        "titre": "Myriam",
+        "image": "femme9.jpg",
+        "description":"Collection fille - Robe de cérémonie",
+        "prix":"150 €"
+        },
+
+        {  
+            "id":10,
+            "titre": "Morphée",
+            "image": "desk1-mini.jpg",
+            "description":"Collection fille - Robe de cérémonie",
+            "prix":"150 €"
+            },
+            {  
+                "id":11,
+                "titre": "Morphée",
+                "image": "fecomp20.jpg",
+                "description":"Collection fille - Robe de cérémonie",
+                "prix":"150 €"
+                },
+                {  
+                    "id":11,
+                    "titre": "Daphnée",
+                    "image": "vente33.jpg",
+                    "description":"Collection fille - Robe de cérémonie",
+                    "prix":"150 €"
+                    }
+            
+    ]
+}
